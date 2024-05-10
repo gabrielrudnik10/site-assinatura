@@ -16,6 +16,7 @@ body {
 }
 .container {
     height: 100vh;
+    display: grid;
 }
 .principal {
     background-image: url("img/Background.png");
