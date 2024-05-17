@@ -153,3 +153,10 @@ body {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
 }
+.iconedetelevisão{
+    width: 10px;
+}
+
+.iconedecomputador{
+    width: 10px;
+}
