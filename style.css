@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("Background.png");
+    background-image: url("img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
@@ -152,15 +152,4 @@ body {
 .container__botao:hover {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
-}
-.icone_de_televisão{
-    width: 10px;
-}
-
-.icone_de_computador{
-    width: 10px;
-}
-
-.icone_de_celular{
-    width: 10px;
 }
